@@ -1,4 +1,5 @@
 ## Explicit Planning under Compute Constraints: A Gridworld Search-Based Autonomous Agent
+personal project exploring search based agents
 
 Implemented a model-based autonomous agent using A* and BFS, and MCTS to study how planning depth and heuristic admissibility affect success, optimality, and runtime in long-horizon tasks. Built a reproducible evaluation harness with instrumentation and failure-mode analysis.
 
